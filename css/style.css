@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:gray;
+    padding: 20px;
+}
+
+h1 {
+    color:darkred;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    max-width: 700px;
+}
+
+h2 {
+    color: Red;
+    border-bottom: 2px solid Red;
+    padding-bottom: 6px;
+}
+
+a {
+    color:blue;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
